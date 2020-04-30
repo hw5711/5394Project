@@ -42,7 +42,7 @@
     "http-status-codes": "^1.4.0",
     "install": "^0.13.0",
     "jest-puppeteer": "^4.4.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.5",
     "mongoose-unique-validator": "^2.0.3",
