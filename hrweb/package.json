@@ -27,7 +27,7 @@
     "@babel/core": "^7.9.0",
     "@popperjs/core": "^2.1.1",
     "angular-hammer": "^2.2.0",
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.7.2",
     "body-parser": "^1.19.0",
     "bootstrap": "^4.4.1",
